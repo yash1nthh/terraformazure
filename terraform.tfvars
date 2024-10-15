@@ -1,0 +1,5 @@
+location             = "eastus"
+resource_group_name  = "rg-terraform-azure"
+storage_account_name = "terraformyash1"
+index_document       = "index.html"
+source       = "/web/index.html"
